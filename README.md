@@ -1,3 +1,4 @@
+![logo](https://github.com/Riteshpaul3/Riteshpaul3/blob/main/DEVOPS_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Ritesh Paul</h1>
 <h3 align="center">A passionate Cloud Engineer || DevOps Engineer ☁️</h3>
 
